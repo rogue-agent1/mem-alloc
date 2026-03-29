@@ -1,11 +1,9 @@
-# mem-alloc
+# memory-allocator
 
-Memory allocator simulation (first-fit, best-fit, buddy).""".
-
-Zero dependencies. Python 3.8+.
+Memory allocation algorithms. Single-file Python CLI, zero dependencies.
 
 ## Usage
 
 ```bash
-python3 mem_alloc.py --help
+python3 mem_alloc.py
 ```
